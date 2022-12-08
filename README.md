@@ -1,6 +1,6 @@
 # Hi there, I'm Gulkhanim! 👋
 
-[![Linkedin: akifhaciyev](https://img.shields.io/badge/-GulAkberova-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)](https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)
+[![Linkedin: GulAkberova](https://img.shields.io/badge/-GulAkberova-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)](https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/GulAkberova?label=follow&style=social)](https://github.com/GulAkberova)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulAkberova&layout=compact&theme=gotham&custom_title=Statistics)
