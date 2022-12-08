@@ -1,8 +1,8 @@
-# Hi there, I'm Akif ! 👋
-[![Linkedin: akifhaciyev](https://img.shields.io/badge/-AkifHaciyev-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/akif-haciyev-1594351aa)](https://www.linkedin.com/in/akif-haciyev-1594351aa)
-[![GitHub Thaiane](https://img.shields.io/github/followers/AkifHaciyev?label=follow&style=social)](https://github.com/AkifHaciyev)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkifHaciyev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkifHAciyev&layout=compact&theme=gotham&custom_title=Statistics)  
+# Hi there, I'm Gulkhanim! 👋
+[![Linkedin: GulAkberova](https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/GulAkberova?label=follow&style=social)](https://github.com/GulAkberova)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulAkberova&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulAkberova&layout=compact&theme=gotham&custom_title=Statistics)  
 # Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
