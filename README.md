@@ -1,12 +1,12 @@
 # Hi there, I'm Gulkhanim! 👋
-[![Linkedin: GulAkberova](https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)
+[![Linkedin: akifhaciyev](https://img.shields.io/badge/-GulAkberova-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)](https://www.linkedin.com/in/g%C3%BClxan%C4%B1mekberova/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/GulAkberova?label=follow&style=social)](https://github.com/GulAkberova)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GulAkberova&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulAkberova&layout=compact&theme=gotham&custom_title=Statistics)  
 # Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="NodeJS"  width="26px" src="https://ijs.gallerycdn.vsassets.io/extensions/ijs/reactnextjssnippets/1.6.0/1604011628777/Microsoft.VisualStudio.Services.Icons.Default" />
